@@ -87,8 +87,8 @@ bsq10.txt
 ` 0 0 1 2 3 4 2 2 2 3 4 4 4`  
 ` 1 1 1 2 3 4 3 3 3 3 4 5 5`  
   
-`AAA  &emsp　&emsp &emsp &emsp    AAAA`  
 `AAA      AAAA`  
+`AAA                 AAAA`  
 `AAB      ABAA`  
 `AAA      AAAA`  
 `BAA      BAAA`  
