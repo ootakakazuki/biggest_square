@@ -87,12 +87,12 @@ bsq10.txt
 ` 0 0 1 2 3 4 2 2 2 3 4 4 4`  
 ` 1 1 1 2 3 4 3 3 3 3 4 5 5`  
   
-`AAA` &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;`AAAA`  
-`AAA` &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; `AAAA`  
-`AAB` &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; `ABAA`  
-`AAA` &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; `AAAA`  
-`BAA` &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; `BAAA`  
-`AAA` &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; `AAAA`  
+`AAA` &nbsp; &nbsp; &nbsp; &nbsp;`AAAA`  
+`AAA` &nbsp; &nbsp; &nbsp; &nbsp;`AAAA`  
+`AAB` &nbsp; &nbsp; &nbsp; &nbsp;`ABAA`  
+`AAA` &nbsp; &nbsp; &nbsp; &nbsp;`AAAA`  
+`BAA` &nbsp; &nbsp; &nbsp; &nbsp;`BAAA`  
+`AAA` &nbsp; &nbsp; &nbsp; &nbsp;`AAAA`  
 `AAAAAABAAAAAA`  
 `AAAAAAAAAAAAA`  
 `BBAAAAAAAAAAA`  
