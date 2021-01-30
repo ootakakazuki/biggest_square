@@ -88,11 +88,11 @@ bsq10.txt
 ` 1 1 1 2 3 4 3 3 3 3 4 5 5`  
   
 `AAA` &nbsp; &nbsp; &nbsp;`AAAA`  
-`AAA      AAAA`  
-`AAB      ABAA`  
-`AAA      AAAA`  
-`BAA      BAAA`  
-`AAA      AAAA`  
+`AAA` &nbsp; &nbsp; &nbsp;`AAAA`  
+`AAB` &nbsp; &nbsp; &nbsp;`ABAA`  
+`AAA` &nbsp; &nbsp; &nbsp;`AAAA`  
+`BAA` &nbsp; &nbsp; &nbsp;`BAAA`  
+`AAA` &nbsp; &nbsp; &nbsp;`AAAA`  
 `AAAAAABAAAAAA`  
 `AAAAAAAAAAAAA`  
 `BBAAAAAAAAAAA`  
